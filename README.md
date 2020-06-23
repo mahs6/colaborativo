@@ -8,4 +8,4 @@
 6. Hacer merge desde las 2 ramas a master
 
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR22FGUdXQFVzDv92JLVT8YajvdzzpkuBjRrOChyAFTUDscnTwn&usqp=CAU"Logo Title Text 1")
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR22FGUdXQFVzDv92JLVT8YajvdzzpkuBjRrOChyAFTUDscnTwn&usqp=CAU "Logo Title Text 1")
